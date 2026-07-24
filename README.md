@@ -1,0 +1,2 @@
+# goldbellesuites
+Static site: goldbellesuites
